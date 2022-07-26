@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SodoReactApp/static/css/main.01933c90.css",
+    "main.js": "/SodoReactApp/static/js/main.6c5848f7.js",
+    "static/js/787.633816a4.chunk.js": "/SodoReactApp/static/js/787.633816a4.chunk.js",
+    "static/media/image-3.png": "/SodoReactApp/static/media/image-3.5775d70dd1ec12909864.png",
+    "static/media/image-4.png": "/SodoReactApp/static/media/image-4.0499a71dc2460a72cadc.png",
+    "static/media/Image-2.png": "/SodoReactApp/static/media/Image-2.995804e36d6cde930e77.png",
+    "static/media/Image-1.png": "/SodoReactApp/static/media/Image-1.158c3dbb76ec8376ebfd.png",
+    "static/media/small-image-2.png": "/SodoReactApp/static/media/small-image-2.3815ccc7e56f49dfe35b.png",
+    "static/media/small-image-3.png": "/SodoReactApp/static/media/small-image-3.7074c6c1c1c4849631e7.png",
+    "static/media/small-image-1.png": "/SodoReactApp/static/media/small-image-1.108d79b24e3a0682d13c.png",
+    "static/media/app-store.png": "/SodoReactApp/static/media/app-store.fb4439fec58c907c2128.png",
+    "static/media/play-store.png": "/SodoReactApp/static/media/play-store.cf4d726c5cbf35b5f048.png",
+    "index.html": "/SodoReactApp/index.html",
+    "main.01933c90.css.map": "/SodoReactApp/static/css/main.01933c90.css.map",
+    "main.6c5848f7.js.map": "/SodoReactApp/static/js/main.6c5848f7.js.map",
+    "787.633816a4.chunk.js.map": "/SodoReactApp/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01933c90.css",
+    "static/js/main.6c5848f7.js"
+  ]
+}
